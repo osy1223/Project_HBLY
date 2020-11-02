@@ -260,10 +260,9 @@ const result = datas.filter(data => data.age > 12).map(d => d.sex);
 ## 게시판을 혼자서 만들어보세요.
 springBoot + mybatis 의 조합으로 혼자서 게시판을 만들어 보세요. 인터넷을 보며 참조하고 보셔도 좋습니다. 다만 내가 짠코드에 대해서 이해하고 넘어가세요. 그렇게 반복적으로 만들다 보면 어느순간 이해도가 수직상승 합니다.
 
-## 본인의 블로그를 운영해보세요.
+## 본인의 블로그를 운영해보세요.(https://blog.naver.com/osu1223)
 본인의 블로그를 아무곳에서 개설 후 공부한 내용을 한개씩 올려보세요. 남들에게 공유되는 내용이니 만큼 더욱 자세하게 공부할수 있고 이를 글로적으면서 이해도가 훨씬 상승하게 됩니다.
 ![java](https://user-images.githubusercontent.com/65882602/97847344-d3910900-1d32-11eb-9128-8b471334dc4b.PNG)
-![spring](https://user-images.githubusercontent.com/65882602/97847349-d55acc80-1d32-11eb-99d6-1b9b064ccbcc.PNG)
 
 
 ## 각종 컨퍼런스 참석
